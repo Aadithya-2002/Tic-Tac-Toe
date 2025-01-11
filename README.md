@@ -7,9 +7,9 @@ This project implements three AI agents—Value Iteration, Policy Iteration, and
 3. Installation
 4. How to Run
 5. Agent Details
-* Value Iteration Agent
-* Policy Iteration Agent
-* Q-Learning Agent
+  * Value Iteration Agent
+  * Policy Iteration Agent
+  * Q-Learning Agent
 6. Testing and Results
 7. Contributing
 
@@ -32,7 +32,7 @@ The goal is to design agents that can compete effectively and learn optimal stra
 
 ```bash
 
-git clone https://github.com/your-username/tictactoe-ai-agents.git
+git clone https://github.com/Aadithya-2002/Tic-Tac-Toe.git
 cd tictactoe-ai-agents
 ```
 2. Build the project using Maven:
